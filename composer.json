@@ -1,0 +1,16 @@
+{
+    "name": "radoslav/php-mvc-framework",
+    "description": "custom mvc framework",
+    "authors": [
+        {
+            "name": "Radoslav Jovanoski",
+            "email": "rade_j@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
